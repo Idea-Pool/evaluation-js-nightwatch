@@ -29,7 +29,7 @@
     "eslint": "^9.15.0",
     "geckodriver": "^4.3.3",
     "husky": "^4.0.10",
-    "nightwatch": "^3.6.3"
+    "nightwatch": "^3.14.0"
   },
   "husky": {
     "precommit": "npm run lint"
